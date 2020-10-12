@@ -25,7 +25,7 @@
         cardContent.classList.add('card-content');
         img.classList.add('responsive-img')
         img.style.height="280px";
-        img.src="../images/img.jpg";
+        img.src="https://raw.githubusercontent.com/henrypalacios/x_files/main/web/src/images/img.jpg";
         if(image !=null){
             img.src="https://www.cia.gov"+image;
         }
