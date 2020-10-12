@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-- Unix Systems using make
+- **Unix Systems using make**
 
 1. create virtual enviroment and install the dependencies.  
     ```bash
@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
     source .venv_py/bin/activate
     ```
 
-- Manual mode
+- **Manual mode**
 1. Create virtual enviroment  
 `python3 -m venv .venv_py`  
 2. Activate  
