@@ -1,6 +1,7 @@
 # X Files
 
-A scrapy project for scraping declassified documents.
+A scrapy project for scraping declassified documents in the CIA.
+![HTML_PREVIEW](./docs/preview.gif)
 
 ## Getting Started
 
